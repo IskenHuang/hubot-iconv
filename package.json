@@ -1,0 +1,15 @@
+{
+  "name": "hubot-iconv",
+  "version": "0.0.1",
+  "description": "hubot script. convert file encording",
+  "main": "iconv.coffee",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "iconv",
+    "hubot"
+  ],
+  "author": "Isken Huang",
+  "license": "MIT"
+}
